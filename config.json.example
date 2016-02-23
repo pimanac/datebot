@@ -1,0 +1,33 @@
+{
+   "days": 31,
+   "reddit": {
+      "root":"https://www.reddit.com",
+      "max_requests":1000,
+      "sleep_seconds":300,
+      "key": "",
+      "secret": "",
+      "access_token": "",
+      "refresh_token": "",
+      "subreddit": "",
+      "username": "",
+      "password": ""
+   },
+   "youtube": {
+      "key":""
+   },
+   "nytimes": {
+      "article_search": {
+      "key": "",
+      "max_requests_per_second":10,
+      "max_requests_per_day":10000
+      },
+      "newswire": {
+         "key":"",
+         "max_requests_per_second": 8,
+         "max_requests_per_day" : 5000
+      }
+   },
+   "embedly": {
+      "key":""
+   }
+}
